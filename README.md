@@ -18,9 +18,16 @@ Anaconda - Python 3.7
 ### Step 6: 
 
 ## PROGRAM:
+```
+with open("file.txt") as fp:
+    with open("fire2.txt","w") as fp1:
+        line= fp.read()
+        fp1.write(line)
+```
 
 ### OUTPUT:
-
+![f1](./file1.jpg)
+![f2](./file2.jpg)
 
 
 ## RESULT:
