@@ -26,8 +26,10 @@ with open("file.txt") as fp:
 ```
 
 ### OUTPUT:
-![f1](./file1.jpg)
-![f2](./file2.jpg)
+![file1](https://user-images.githubusercontent.com/93427303/153134435-66195353-cebe-4b4c-a682-1a2c8fbde77e.JPG)
+
+![file2](https://user-images.githubusercontent.com/93427303/153134513-52538721-a6e7-433b-be36-15e9f32e05eb.JPG)
+
 
 
 ## RESULT:
